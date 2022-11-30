@@ -691,3 +691,11 @@ a {
     height: 100%;
     margin:0 auto;
   }
+
+  p.indent1.shifted{
+    margin-left: 65px;
+  }
+
+  p.indent2{
+    text-indent: -65px;
+  }
