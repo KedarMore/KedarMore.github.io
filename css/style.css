@@ -50,10 +50,6 @@ a {
     text-decoration-line: none;
   }
 
-div {
-  text-align: justify;
-  }
-
 .parent-nav-link-padding, .site-navbar .navbar-nav > li > a {
   padding: 15px 20px !important; }
 
